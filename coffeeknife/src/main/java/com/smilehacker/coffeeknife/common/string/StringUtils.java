@@ -5,7 +5,6 @@ import android.util.Base64;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.List;
 
 /**
  * Created by kleist on 14/10/20.
