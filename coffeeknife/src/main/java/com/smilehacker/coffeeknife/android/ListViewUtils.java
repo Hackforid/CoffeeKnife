@@ -1,4 +1,4 @@
-package com.smilehacker.coffeeknife.android.view;
+package com.smilehacker.coffeeknife.android;
 
 import android.view.View;
 import android.view.ViewGroup;

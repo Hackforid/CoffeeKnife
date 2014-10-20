@@ -1,4 +1,4 @@
-package com.smilehacker.coffeeknife.common.object;
+package com.smilehacker.coffeeknife.common.string;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.smilehacker.coffeeknife.android.helper;
+package com.smilehacker.coffeeknife.android;
 
 import android.util.Log;
 
