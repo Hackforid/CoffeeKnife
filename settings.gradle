@@ -1,1 +1,1 @@
-include ':test', ':coffeeknife'
+include ':coffeeknife'
